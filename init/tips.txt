@@ -3,7 +3,8 @@
 	为了让footer不脱离文档流：在footer之前加入div，设置div.height=footer.height
 （3）弹窗使用position:fixed;
 （4）iPhone X适配问题：body{
-				padding-top：constant();
+				padding-top:constant();
+				padding-bottom:constant();
 			}
 
 
