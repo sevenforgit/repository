@@ -1,4 +1,4 @@
 （1）单行文字实现div中垂直居中：line-height的值=div的高度
 （2）footer沉底：position：fixed;bottom:0;
-	为了让footer不脱离文档流：在footer之前加入div，设置div.height=footer.height则可以
+	为了让footer不脱离文档流：在footer之前加入div，设置div.height=footer.height
 
